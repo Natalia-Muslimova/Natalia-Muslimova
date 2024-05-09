@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Natalia-Muslimova/Natalia-Muslimova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**My name is Natalia**
 
-Here are some ideas to get you started:
+I'm a junior analyst and looking for a job. I'm also considering internship offers or project work. Currently I am considering different areas in analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages and tools:**
+
+SQL, Python, Tableau, MS Excel, MS Office, MS PowerPoint, PostgreSQL, Google Tabs, Google Slides
+
+**Contact me**
+- ✉️ ivanovanatasha@bk.ru
+- telegram - @natalia_muslimova
+
+
+
